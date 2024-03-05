@@ -1,4 +1,5 @@
 // handlers/todoHandler.go
+
 package handlers
 
 import (
@@ -6,7 +7,7 @@ import (
 	"github.com/gorilla/mux"
 	"math/rand"
 	"myapi/models"
-	"myapi/store" // Обратите внимание на измененный путь импорта
+	"myapi/store"
 	"net/http"
 	"strconv"
 	"strings"

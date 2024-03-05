@@ -1,4 +1,5 @@
 // models/todoModel.go
+
 package models
 
 // Todo представляет задачу в списке дел.
